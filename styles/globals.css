@@ -1,0 +1,13 @@
+
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #111;
+  color: #fff;
+}
+a { color: #00d4ff; text-decoration: none; }
+.container { padding: 20px; }
+.grid { display: flex; flex-wrap: wrap; gap: 20px; }
+.card { width: 220px; background: #1a1a1a; padding: 10px; border-radius: 10px; }
+img { max-width: 100%; border-radius: 8px; }
+.search { padding: 10px; width: 100%; margin-bottom: 20px; }
