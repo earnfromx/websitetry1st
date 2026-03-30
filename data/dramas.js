@@ -2,7 +2,7 @@ const dramas = [
   {
     slug: "rang-de-ep-1",
     title: "Rang De Episode 1",
-    image: "https://via.placeholder.com/300",
+    image: "https://drive.google.com/file/d/1WBnc67IjOGjiX7xinW6IQSZXGl7Y4y_U/view",
     video: "https://www.youtube.com/embed/dQw4w9WgXcQ",
     description: "مسلسل باكستاني مترجم"
   },
